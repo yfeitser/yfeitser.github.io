@@ -1,0 +1,53 @@
+html {
+}
+h1 {
+  color: crimson;
+  height: 20px;
+  border: 3px;
+  border-color: blue;
+}
+body {
+  height: 100%;
+  width: 75%;
+  border: 5px;
+  border-style: solid;
+  border-color: red;
+}
+img {
+  width: 40%;
+  margin: 3px;
+  padding: 5px;
+  border: 5px;
+  border-style: solid;
+  border-color: red;
+  align-content: center;
+}
+header{
+  text-align: center;
+  font-size: 16px;
+  display: grid;
+  background-color: black;
+  font-style: italic;
+  font-family: sans-serif;
+}
+nav{
+  text-align: center;
+
+  background-color: pink;
+  width: 100%;
+  height: 75px;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+section{
+  display: inline-block;
+  padding: 10px;
+  width: 600px;
+}
+footer{
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  color: white;
+  background-color: black;
+}
